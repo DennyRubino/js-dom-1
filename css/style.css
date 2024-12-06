@@ -1,0 +1,22 @@
+
+.lampadina {
+    height: 25%;
+    width: 25%;
+    
+}
+
+.disappear {
+    display: none;
+}
+
+
+.btn {
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+    background-color: greenyellow;
+}
+.pad-5 {
+    padding: 10%;
+}
+
